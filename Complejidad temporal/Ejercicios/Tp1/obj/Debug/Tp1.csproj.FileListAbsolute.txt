@@ -1,5 +1,0 @@
-C:\Users\HERIC\Desktop\Complejidad temporal\Ejercicios\Tp1\bin\Debug\Tp1.exe
-C:\Users\HERIC\Desktop\Complejidad temporal\Ejercicios\Tp1\bin\Debug\Tp1.pdb
-C:\Users\HERIC\Desktop\Complejidad temporal\Ejercicios\Tp1\obj\Debug\Tp1.csprojResolveAssemblyReference.cache
-C:\Users\HERIC\Desktop\Complejidad temporal\Ejercicios\Tp1\obj\Debug\Tp1.exe
-C:\Users\HERIC\Desktop\Complejidad temporal\Ejercicios\Tp1\obj\Debug\Tp1.pdb
