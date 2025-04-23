@@ -1,0 +1,5 @@
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\Unidad03\bin\Debug\Unidad03.exe
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\Unidad03\bin\Debug\Unidad03.pdb
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\Unidad03\obj\Debug\Unidad03.csprojResolveAssemblyReference.cache
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\Unidad03\obj\Debug\Unidad03.exe
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\Unidad03\obj\Debug\Unidad03.pdb

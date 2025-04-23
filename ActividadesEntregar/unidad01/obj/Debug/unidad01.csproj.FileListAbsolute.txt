@@ -3,3 +3,8 @@ C:\Users\HERIC\Desktop\Complejidad temporal\ActividadesEntregar\unidad01\bin\Deb
 C:\Users\HERIC\Desktop\Complejidad temporal\ActividadesEntregar\unidad01\bin\Debug\unidad01.pdb
 C:\Users\HERIC\Desktop\Complejidad temporal\ActividadesEntregar\unidad01\obj\Debug\unidad01.exe
 C:\Users\HERIC\Desktop\Complejidad temporal\ActividadesEntregar\unidad01\obj\Debug\unidad01.pdb
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\unidad01\bin\Debug\unidad01.exe
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\unidad01\bin\Debug\unidad01.pdb
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\unidad01\obj\Debug\unidad01.csprojResolveAssemblyReference.cache
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\unidad01\obj\Debug\unidad01.exe
+C:\Users\HERIC\Desktop\ComplejidadTemporal\ActividadesEntregar\unidad01\obj\Debug\unidad01.pdb
